@@ -10,7 +10,7 @@
 
 ## 예측 모델을 만드는데 있어서 의문점
 * 단순히 코로나 확진자 수에 따라 예측이 가능할까?
-** 연령별, 성별, 혹은 유행하는 바이러스 종류, 나라에 따라서 비율이 다르지 않을까? 라는 의문이 들었습니다.
+  ** 연령별, 성별, 혹은 유행하는 바이러스 종류, 나라에 따라서 비율이 다르지 않을까? 라는 의문이 들었습니다.
 
 ## 데이터 수집
 * [공식 사이트](http://ncov.mohw.go.kr/index.jsp, '코로나 확진자 공식 사이트') 
@@ -23,7 +23,7 @@
 - selenium
 - Beautiful Soup
 - sklearn
-** Decision Tree, train_test_split
+  ** Decision Tree, train_test_split
 
 2. Tableau
 - 시각화를 위한 Tool
