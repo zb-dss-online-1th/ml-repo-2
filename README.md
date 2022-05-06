@@ -8,6 +8,8 @@
 
 ![코로나 확진자](https://user-images.githubusercontent.com/98293593/167098390-4e973209-91a0-480c-981a-b9dbbf1b6359.PNG)
 
+---
+
 ## 예측 모델을 만드는데 있어서 의문점
 * 단순히 코로나 확진자 수에 따라 예측이 가능할까?
   * 연령별, 성별, 혹은 유행하는 바이러스 종류, 나라에 따라서 비율이 다르지 않을까? 라는 의문이 들었습니다.
@@ -19,6 +21,7 @@
 
 1. Python
 - matplotlob.pyplot
+- seaborn
 - pandas 
 - selenium
 - Beautiful Soup
