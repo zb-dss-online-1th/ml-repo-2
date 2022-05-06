@@ -14,3 +14,16 @@
 
 ## 데이터 수집
 * [공식 사이트](http://ncov.mohw.go.kr/index.jsp, '코로나 확진자 공식 사이트') 
+
+## 사용할 Library or Tool
+
+1. Python
+- matplotlob.pyplot
+- pandas 
+- selenium
+- Beautiful Soup
+- sklearn
+** Decision Tree, train_test_split
+
+2. Tableau
+- 시각화를 위한 Tool
