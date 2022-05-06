@@ -21,7 +21,7 @@
 ## 사용할 Library or Tool
 
 1. Python
- - matplotlob.pyplot
+    - matplotlob.pyplot
  - seaborn
  - pandas 
  - selenium
