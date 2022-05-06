@@ -22,15 +22,15 @@
 
 1. Python
     - matplotlob.pyplot
- - seaborn
- - pandas 
- - selenium
- - Beautiful Soup
- - sklearn
-   * Decision Tree, train_test_split
+    - seaborn
+    - pandas 
+    - selenium
+    - Beautiful Soup
+    - sklearn
+      * Decision Tree, train_test_split
 
 2. Tableau
- - 시각화를 위한 Tool
+    - 시각화를 위한 Tool
 ## 모델 선정 및 평가
 - 회귀 모델을 통한 모델링 후 r-squre, aic 등 평가
 
