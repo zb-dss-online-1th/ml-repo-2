@@ -17,6 +17,7 @@
 ## 데이터 수집
 * [공식 사이트](http://ncov.mohw.go.kr/index.jsp, '코로나 확진자 공식 사이트') , or 보건복지부 
  * 전체 확진자 수, 국내발생, 해외유입, 사회적 거리두기, 사망자 수 수집
+ * https://ourworldindata.org/metrics-explained-covid19-stringency-index
 
 ## 사용할 Library or Tool
 
@@ -27,7 +28,8 @@
     - selenium
     - Beautiful Soup
     - sklearn
-      * Decision Tree, train_test_split
+      * OLS, train_test_split, rsquared, Linear Regression
+    - stepwise를 통해 변수 선택
 
 2. Tableau
     - 시각화를 위한 Tool
