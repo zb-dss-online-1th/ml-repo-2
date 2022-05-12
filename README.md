@@ -28,12 +28,14 @@
     - selenium
     - Beautiful Soup
     - sklearn
-      * OLS, train_test_split, rsquared, Linear Regression
+      * OLS, train_test_split, rsquared, Linear Regression, GBM
+    - XGboost
     - stepwise를 통해 변수 선택
 
 2. Tableau
     - 시각화를 위한 Tool
 ## 모델 선정 및 평가
+- GBM, XGboost, Linear Regression 등을 통해 모델을 선정
 - 회귀 모델을 통한 모델링 후 r-squre, aic 등 평가
 
 ## 구현 및 시연
