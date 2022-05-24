@@ -12,8 +12,10 @@
 ---
 
 ## 데이터 수집
-* [공식 사이트](https://ourworldindata.org/)![image](https://user-images.githubusercontent.com/102526342/169969687-e3837e23-607d-4d06-b380-2a3006f45b19.png)
-)![Uploading image.png…]()
+* [공식 사이트](https://ourworldindata.org/)https://ourworldindata.org/
+* ![](https://user-images.githubusercontent.com/102526342/169971129-40e2571d-d1fa-4d68-af3f-d85c029dfa79.png)
+)
+
 
  * 전체 확진자 수, 위중증 환자 수, 1차 + 2차 + 부스터샷 누적 접종자 수, 엄격성지수(학교/직장 닫음, 여행금지 등, 0~100), 주간 병원 수용 가능 환자 수, 감염 재생산지수 등
  
