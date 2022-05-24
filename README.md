@@ -5,19 +5,21 @@
 ---
 ## 목적 및 기획의도
 * COVID-19감염으로 인한 사망자 수 예측에 중요한 변수는 무엇인지 알아보고, 
- 적합한 모델을 fitting 하여 한국, 일본, 미국, 유럽, 아시아 등의 COVID-19감염으로 인한 사망자 수를 예측
+ 적합한 모델을 fitting 하여 한국, 일본, 미국, 유럽, 아시아 등의  
+ COVID-19감염으로 인한 사망자 수를 예측해보고자 한다.
 
 ![코로나 확진자](https://user-images.githubusercontent.com/98293593/167098390-4e973209-91a0-480c-981a-b9dbbf1b6359.PNG)
 
 ---
 
 ## 데이터 수집
-* [공식 사이트](https://ourworldindata.org/)https://ourworldindata.org/
-* ![](https://user-images.githubusercontent.com/102526342/169971129-40e2571d-d1fa-4d68-af3f-d85c029dfa79.png)
-)
+* [공식 사이트](https://ourworldindata.org/) : <https://ourworldindata.org/>
+![](https://user-images.githubusercontent.com/102526342/169971129-40e2571d-d1fa-4d68-af3f-d85c029dfa79.png)
 
 
- * 전체 확진자 수, 위중증 환자 수, 1차 + 2차 + 부스터샷 누적 접종자 수, 엄격성지수(학교/직장 닫음, 여행금지 등, 0~100), 주간 병원 수용 가능 환자 수, 감염 재생산지수 등
+
+ * 전체 확진자 수, 위중증 환자 수, 1차 + 2차 + 부스터샷 누적 접종자 수, 엄격성지수(학교/직장 닫음, 여행금지 등, 0~100)  
+  주간 병원 수용 가능 환자 수, 감염 재생산지수 등
  
 
 ## 사용할 Library or Tool
